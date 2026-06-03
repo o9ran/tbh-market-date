@@ -2,73 +2,61 @@ const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
 
-const STEAM_COMMUNITY = 'https://steamcommunity.com';
-const APP_ID = '3678970';
-const PAGE_SIZE = 100;
+const SOURCE_URL = 'https://tbh-market.com/api/items';
+const PAGE_SIZE = 48;
 
 async function fetchAllItems() {
   const allItems = [];
-  let totalCount = 0;
+  let page = 1;
+  let total = 0;
 
-  console.log('Fetching TBH market data from Steam...');
+  console.log('Fetching TBH market data from tbh-market.com...');
 
-  const firstRes = await axios.get(`${STEAM_COMMUNITY}/market/search/render/`, {
-    params: {
-      appid: APP_ID,
-      norender: 1,
-      count: PAGE_SIZE,
-      start: 0,
-      sort_column: 'popular',
-      sort_dir: 'desc',
-    },
-    headers: { 'User-Agent': 'TBH-Market-Bot/1.0' },
-    timeout: 15000,
-  });
-
-  totalCount = firstRes.data?.total_count ?? 0;
-  console.log(`Total items: ${totalCount}`);
-  parseItems(firstRes.data?.results ?? [], allItems);
-
-  for (let start = PAGE_SIZE; start < Math.min(totalCount, 2000); start += PAGE_SIZE) {
-    await sleep(2000);
+  while (true) {
     try {
-      const res = await axios.get(`${STEAM_COMMUNITY}/market/search/render/`, {
-        params: {
-          appid: APP_ID,
-          norender: 1,
-          count: PAGE_SIZE,
-          start,
-          sort_column: 'popular',
-          sort_dir: 'desc',
-        },
-        headers: { 'User-Agent': 'TBH-Market-Bot/1.0' },
+      const res = await axios.get(SOURCE_URL, {
+        params: { page },
         timeout: 15000,
+        headers: { 'User-Agent': 'TBH-Market-Bot/1.0' },
       });
-      const results = res.data?.results ?? [];
-      if (results.length === 0) break;
-      parseItems(results, allItems);
-      console.log(`Fetched ${allItems.length} / ${totalCount}`);
+
+      const data = res.data;
+      if (page === 1) {
+        total = data.total ?? 0;
+        console.log(`Total items: ${total}`);
+      }
+
+      const items = data.items ?? [];
+      if (items.length === 0) break;
+
+      for (const item of items) {
+        allItems.push({
+          hash_name:     item.hash_name,
+          name:          item.name,
+          name_ja:       item.name_ja ?? '',
+          icon_url:      item.icon_url ?? '',
+          type:          item.type ?? '',
+          sell_price:    item.sell_price ?? 0,
+          median_price:  item.median_price ?? null,
+          sell_listings: item.sell_listings ?? 0,
+          volume:        item.volume ?? 0,
+          name_color:    item.name_color ?? '',
+        });
+      }
+
+      console.log(`Page ${page}: ${allItems.length} / ${total}`);
+
+      if (allItems.length >= total) break;
+
+      page++;
+      await sleep(500);
     } catch (e) {
-      console.error(`Error at start=${start}:`, e.message);
+      console.error(`Error on page ${page}:`, e.message);
       break;
     }
   }
 
   return allItems;
-}
-
-function parseItems(results, list) {
-  for (const item of results) {
-    list.push({
-      hash_name:     item.hash_name,
-      name:          item.name,
-      icon_url:      item.asset_description?.icon_url ?? '',
-      type:          item.asset_description?.type ?? '',
-      sell_price:    item.sell_price ?? 0,
-      sell_listings: item.sell_listings ?? 0,
-      name_color:    item.asset_description?.name_color ?? '',
-    });
-  }
 }
 
 function sleep(ms) {
@@ -91,7 +79,7 @@ async function main() {
 
   fs.writeFileSync(
     path.join(dataDir, 'items.json'),
-    JSON.stringify(output, null, 2),
+    JSON.stringify(output),
     'utf-8'
   );
 
