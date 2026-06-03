@@ -1,0 +1,636 @@
+{
+  "items": [
+    {
+      "hash_name": "Stone",
+      "name": "Stone",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEk8yUeizqKcH5diC3O5",
+      "type": "Crafting Material",
+      "sell_price": 10,
+      "sell_listings": 5278,
+      "name_color": "D7D7D7"
+    },
+    {
+      "hash_name": "Soulstone - Normal",
+      "name": "Soulstone - Normal",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEQ8yUehzqKcH5CC7Jxm",
+      "type": "Soulstone",
+      "sell_price": 8,
+      "sell_listings": 20394,
+      "name_color": "E8695A"
+    },
+    {
+      "hash_name": "Soulstone - Nightmare",
+      "name": "Soulstone - Nightmare",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEQ8yUeizqKcH5bPx4sH",
+      "type": "Soulstone",
+      "sell_price": 12,
+      "sell_listings": 14355,
+      "name_color": "FB86FF"
+    },
+    {
+      "hash_name": "Emerald",
+      "name": "Emerald",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw-yUekzqKcH-x4iUkH",
+      "type": "Decoration Material",
+      "sell_price": 40,
+      "sell_listings": 1814,
+      "name_color": "519FFF"
+    },
+    {
+      "hash_name": "Soulstone - Torment",
+      "name": "Soulstone - Torment",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEQ8yUekzqKcHyTvp7Ey",
+      "type": "Soulstone",
+      "sell_price": 18,
+      "sell_listings": 12849,
+      "name_color": "00F6FF"
+    },
+    {
+      "hash_name": "Knight Boots (Arcana) A",
+      "name": "Knight Boots (Arcana) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeg1PyCFvFVoQ3LPQ",
+      "type": "Boots - Lv. 15",
+      "sell_price": 2877,
+      "sell_listings": 1,
+      "name_color": "FB86FF"
+    },
+    {
+      "hash_name": "Ruby",
+      "name": "Ruby",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw-yUehzqKcH7cedjpL",
+      "type": "Decoration Material",
+      "sell_price": 40,
+      "sell_listings": 2314,
+      "name_color": "519FFF"
+    },
+    {
+      "hash_name": "Iron Ingot",
+      "name": "Iron Ingot",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEk9yUeizqKcHwZM78KK",
+      "type": "Crafting Material",
+      "sell_price": 10,
+      "sell_listings": 9100,
+      "name_color": "7CE937"
+    },
+    {
+      "hash_name": "Soulstone - Hell",
+      "name": "Soulstone - Hell",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEQ8yUejzqKcH19gLfqH",
+      "type": "Soulstone",
+      "sell_price": 15,
+      "sell_listings": 17304,
+      "name_color": "FF0080"
+    },
+    {
+      "hash_name": "Stardust Ingot",
+      "name": "Stardust Ingot",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEk_yUehzqKcH4B_KzXB",
+      "type": "Crafting Material",
+      "sell_price": 17,
+      "sell_listings": 3970,
+      "name_color": "EBBB00"
+    },
+    {
+      "hash_name": "Chain Helmet (Immortal) A",
+      "name": "Chain Helmet (Immortal) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0OfcCPhX8fKtIQA",
+      "type": "Helmet - Lv. 20",
+      "sell_price": 32,
+      "sell_listings": 113,
+      "name_color": "E8695A"
+    },
+    {
+      "hash_name": "Obsidian Bracer (Legendary) A",
+      "name": "Obsidian Bracer (Legendary) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0OXcCPhXfiUZCNU",
+      "type": "Bracer - Lv. 30",
+      "sell_price": 54,
+      "sell_listings": 46,
+      "name_color": "EBBB00"
+    },
+    {
+      "hash_name": "Phoenix Ash",
+      "name": "Phoenix Ash",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE85yUejzqKcH2902pDH",
+      "type": "Engraving Material",
+      "sell_price": 60,
+      "sell_listings": 775,
+      "name_color": "FB86FF"
+    },
+    {
+      "hash_name": "Elite Bow (Arcana) A",
+      "name": "Elite Bow (Arcana) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yU6-kLyVAAf7yE0",
+      "type": "Bow - Lv. 40",
+      "sell_price": 303,
+      "sell_listings": 24,
+      "name_color": "FB86FF"
+    },
+    {
+      "hash_name": "Fate Sword (Immortal) A",
+      "name": "Fate Sword (Immortal) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeh0fyCFvHkGrR9DA",
+      "type": "Sword - Lv. 50",
+      "sell_price": 50,
+      "sell_listings": 53,
+      "name_color": "E8695A"
+    },
+    {
+      "hash_name": "Darksteel Ingot",
+      "name": "Darksteel Ingot",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEk6yUehzqKcH0GrVCR-",
+      "type": "Crafting Material",
+      "sell_price": 31,
+      "sell_listings": 388,
+      "name_color": "FF0080"
+    },
+    {
+      "hash_name": "Knight's Tome (Legendary) A",
+      "name": "Knight's Tome (Legendary) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUekzqKcH-CR8j1h",
+      "type": "Tome - Lv. 15",
+      "sell_price": 41,
+      "sell_listings": 87,
+      "name_color": "EBBB00"
+    },
+    {
+      "hash_name": "Dimensional Gloves (Immortal) A",
+      "name": "Dimensional Gloves (Immortal) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0eXcCPhX0F0RKKg",
+      "type": "Gloves - Lv. 80",
+      "sell_price": 107,
+      "sell_listings": 130,
+      "name_color": "E8695A"
+    },
+    {
+      "hash_name": "Limitless Bow (Arcana) A",
+      "name": "Limitless Bow (Arcana) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCUs8mTE08yEO-kLyVszpW2hw",
+      "type": "Bow - Lv. 65",
+      "sell_price": 2150,
+      "sell_listings": 10,
+      "name_color": "FB86FF"
+    },
+    {
+      "hash_name": "Great Sword (Legendary) A",
+      "name": "Great Sword (Legendary) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeg1fyCFvGJsiZzxA",
+      "type": "Sword - Lv. 20",
+      "sell_price": 6,
+      "sell_listings": 491,
+      "name_color": "EBBB00"
+    },
+    {
+      "hash_name": "War Tome (Legendary) A",
+      "name": "War Tome (Legendary) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUenzqKcH57T8ExQ",
+      "type": "Tome - Lv. 30",
+      "sell_price": 40,
+      "sell_listings": 84,
+      "name_color": "EBBB00"
+    },
+    {
+      "hash_name": "Platinum Earring (Immortal) A",
+      "name": "Platinum Earring (Immortal) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI9MV9lbOiI6yEeg0OfcCPhXdb0rqnM",
+      "type": "Earing - Lv. 20",
+      "sell_price": 210,
+      "sell_listings": 25,
+      "name_color": "E8695A"
+    },
+    {
+      "hash_name": "Fighter's Helmet (Legendary) A",
+      "name": "Fighter's Helmet (Legendary) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJISd1QKSI5yUeg0ebcCPhXUXZJcBI",
+      "type": "Helmet - Lv. 65",
+      "sell_price": 16,
+      "sell_listings": 233,
+      "name_color": "EBBB00"
+    },
+    {
+      "hash_name": "War Boots (Arcana) A",
+      "name": "War Boots (Arcana) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeg1_yCFvECe6wQxQ",
+      "type": "Boots - Lv. 30",
+      "sell_price": 208,
+      "sell_listings": 26,
+      "name_color": "FB86FF"
+    },
+    {
+      "hash_name": "Rune Gloves (Legendary) A",
+      "name": "Rune Gloves (Legendary) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0OvcCPhXyYYLRhY",
+      "type": "Gloves - Lv. 40",
+      "sell_price": 8,
+      "sell_listings": 211,
+      "name_color": "EBBB00"
+    },
+    {
+      "hash_name": "Arcane Ore",
+      "name": "Arcane Ore",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEk5yUeizqKcH0-PzwLX",
+      "type": "Crafting Material",
+      "sell_price": 21,
+      "sell_listings": 2254,
+      "name_color": "FB86FF"
+    },
+    {
+      "hash_name": "Knight Sword (Legendary) A",
+      "name": "Knight Sword (Legendary) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeg1_yCFvFztzlr8A",
+      "type": "Sword - Lv. 30",
+      "sell_price": 8,
+      "sell_listings": 216,
+      "name_color": "EBBB00"
+    },
+    {
+      "hash_name": "Tempest Staff (Legendary) A",
+      "name": "Tempest Staff (Legendary) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeh1_yCFvFAIV78oQ",
+      "type": "Staff - Lv. 80",
+      "sell_price": 28,
+      "sell_listings": 195,
+      "name_color": "EBBB00"
+    },
+    {
+      "hash_name": "Azure Staff (Legendary) A",
+      "name": "Azure Staff (Legendary) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeg1fyCFvGu9-QAoA",
+      "type": "Staff - Lv. 20",
+      "sell_price": 6,
+      "sell_listings": 589,
+      "name_color": "EBBB00"
+    },
+    {
+      "hash_name": "Amber Ring (Legendary) A",
+      "name": "Amber Ring (Legendary) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJhES9dKS088yUenzqKcH1K5IKZS",
+      "type": "Ring - Lv. 30",
+      "sell_price": 73,
+      "sell_listings": 33,
+      "name_color": "EBBB00"
+    },
+    {
+      "hash_name": "Scroll of Uncommon Inscription",
+      "name": "Scroll of Uncommon Inscription",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE49yUehzqKcH4pWwOrN",
+      "type": "Inscription Material",
+      "sell_price": 27,
+      "sell_listings": 454,
+      "name_color": "7CE937"
+    },
+    {
+      "hash_name": "Platinum Amulet (Immortal) A",
+      "name": "Platinum Amulet (Immortal) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItAUNxQKSI6yUeg0OfcCPhXTuz4Iig",
+      "type": "Amulet - Lv. 20",
+      "sell_price": 334,
+      "sell_listings": 23,
+      "name_color": "E8695A"
+    },
+    {
+      "hash_name": "Iron Boots (Immortal) A",
+      "name": "Iron Boots (Immortal) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeg0_yCFvHI2ln9rA",
+      "type": "Boots - Lv. 10",
+      "sell_price": 26,
+      "sell_listings": 52,
+      "name_color": "E8695A"
+    },
+    {
+      "hash_name": "Mystic Crossbow (Legendary) A",
+      "name": "Mystic Crossbow (Legendary) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLDSbhANibYAwBASA",
+      "type": "Crossbow - Lv. 50",
+      "sell_price": 19,
+      "sell_listings": 65,
+      "name_color": "EBBB00"
+    },
+    {
+      "hash_name": "Chain Boots (Arcana) A",
+      "name": "Chain Boots (Arcana) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeg1fyCFvEubPTQCg",
+      "type": "Boots - Lv. 20",
+      "sell_price": 164,
+      "sell_listings": 23,
+      "name_color": "FB86FF"
+    },
+    {
+      "hash_name": "Gold Ring (Legendary) A",
+      "name": "Gold Ring (Legendary) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJhES9dKS088yUekzqKcH20RZFOb",
+      "type": "Ring - Lv. 15",
+      "sell_price": 176,
+      "sell_listings": 19,
+      "name_color": "EBBB00"
+    },
+    {
+      "hash_name": "Void Opal",
+      "name": "Void Opal",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw6yUehzqKcH9AR9-QI",
+      "type": "Decoration Material",
+      "sell_price": 222,
+      "sell_listings": 201,
+      "name_color": "FF0080"
+    },
+    {
+      "hash_name": "Rune Boots (Arcana) A",
+      "name": "Rune Boots (Arcana) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeg2fyCFvEq2VjeoA",
+      "type": "Boots - Lv. 40",
+      "sell_price": 153,
+      "sell_listings": 40,
+      "name_color": "FB86FF"
+    },
+    {
+      "hash_name": "Goblin Hide",
+      "name": "Goblin Hide",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTE88yUehzqKcH3BSI2ZW",
+      "type": "Engraving Material",
+      "sell_price": 3,
+      "sell_listings": 2570,
+      "name_color": "D7D7D7"
+    },
+    {
+      "hash_name": "Obsidian Bracer (Immortal) A",
+      "name": "Obsidian Bracer (Immortal) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0OXcCPhXfiUZCNU",
+      "type": "Bracer - Lv. 30",
+      "sell_price": 116,
+      "sell_listings": 26,
+      "name_color": "E8695A"
+    },
+    {
+      "hash_name": "Silver Bracer (Legendary) A",
+      "name": "Silver Bracer (Legendary) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0OHcCPhXclT9oI0",
+      "type": "Bracer - Lv. 10",
+      "sell_price": 49,
+      "sell_listings": 42,
+      "name_color": "EBBB00"
+    },
+    {
+      "hash_name": "Dimensional Orb (Legendary) A",
+      "name": "Dimensional Orb (Legendary) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIVfR88hT008yEC-kLyVgwanDxI",
+      "type": "Orb - Lv. 80",
+      "sell_price": 38,
+      "sell_listings": 42,
+      "name_color": "EBBB00"
+    },
+    {
+      "hash_name": "Mystic Hatchet (Immortal) A",
+      "name": "Mystic Hatchet (Immortal) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJMUdNdOClTzUKg0OPDVuZePxlyrL23",
+      "type": "Hatchet - Lv. 50",
+      "sell_price": 75,
+      "sell_listings": 18,
+      "name_color": "E8695A"
+    },
+    {
+      "hash_name": "Cutlas (Legendary) A",
+      "name": "Cutlas (Legendary) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeg0vyCFvEzRUOz3A",
+      "type": "Sword - Lv. 5",
+      "sell_price": 7,
+      "sell_listings": 99,
+      "name_color": "EBBB00"
+    },
+    {
+      "hash_name": "Empire Boots (Immortal) A",
+      "name": "Empire Boots (Immortal) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhCSsRGIkg_yUeg0vyCFvFCbY0Siw",
+      "type": "Boots - Lv. 5",
+      "sell_price": 20,
+      "sell_listings": 36,
+      "name_color": "E8695A"
+    },
+    {
+      "hash_name": "Cutlas (Immortal) A",
+      "name": "Cutlas (Immortal) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeg0vyCFvEzRUOz3A",
+      "type": "Sword - Lv. 5",
+      "sell_price": 25,
+      "sell_listings": 38,
+      "name_color": "E8695A"
+    },
+    {
+      "hash_name": "Iron Scepter (Legendary) A",
+      "name": "Iron Scepter (Legendary) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlOQMBBOC9TykSg0OLAVuZeP6Tfz_FN",
+      "type": "Scepter - Lv. 5",
+      "sell_price": 7,
+      "sell_listings": 96,
+      "name_color": "EBBB00"
+    },
+    {
+      "hash_name": "Steel Axe (Immortal) A",
+      "name": "Steel Axe (Immortal) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yUO-kLyVWdqGWPc",
+      "type": "Axe - Lv. 15",
+      "sell_price": 30,
+      "sell_listings": 58,
+      "name_color": "E8695A"
+    },
+    {
+      "hash_name": "Empire Gloves (Legendary) A",
+      "name": "Empire Gloves (Legendary) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsI1BSsZQLiI5y0eg0ODcCPhX30JmLzI",
+      "type": "Gloves - Lv. 5",
+      "sell_price": 7,
+      "sell_listings": 55,
+      "name_color": "EBBB00"
+    },
+    {
+      "hash_name": "War Axe (Legendary) A",
+      "name": "War Axe (Legendary) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yUK-kLyVpZQqWZM",
+      "type": "Axe - Lv. 20",
+      "sell_price": 11,
+      "sell_listings": 65,
+      "name_color": "EBBB00"
+    },
+    {
+      "hash_name": "Heavy Shield (Arcana) A",
+      "name": "Heavy Shield (Arcana) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0OfcCPhXmXghbS8",
+      "type": "Shield - Lv. 20",
+      "sell_price": 293,
+      "sell_listings": 11,
+      "name_color": "FB86FF"
+    },
+    {
+      "hash_name": "Knight's Tome (Arcana) A",
+      "name": "Knight's Tome (Arcana) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUekzqKcH-CR8j1h",
+      "type": "Tome - Lv. 15",
+      "sell_price": 342,
+      "sell_listings": 7,
+      "name_color": "FB86FF"
+    },
+    {
+      "hash_name": "Gold Bracer (Legendary) A",
+      "name": "Gold Bracer (Legendary) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIhfRNNQLyI6ykeg0ObcCPhXBFWmpho",
+      "type": "Bracer - Lv. 15",
+      "sell_price": 104,
+      "sell_listings": 16,
+      "name_color": "EBBB00"
+    },
+    {
+      "hash_name": "Vengeance Sword (Arcana) A",
+      "name": "Vengeance Sword (Arcana) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlaSsJRIk48yUeh1PyCFvFjfF0I7w",
+      "type": "Sword - Lv. 65",
+      "sell_price": 246,
+      "sell_listings": 26,
+      "name_color": "FB86FF"
+    },
+    {
+      "hash_name": "Twilight Amethyst",
+      "name": "Twilight Amethyst",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIN5YP1KTEw6yUekzqKcH8HCWI6_",
+      "type": "Decoration Material",
+      "sell_price": 952,
+      "sell_listings": 66,
+      "name_color": "FF0080"
+    },
+    {
+      "hash_name": "Rune Tome (Arcana) A",
+      "name": "Rune Tome (Arcana) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUepzqKcHw2Z9icR",
+      "type": "Tome - Lv. 40",
+      "sell_price": 363,
+      "sell_listings": 10,
+      "name_color": "FB86FF"
+    },
+    {
+      "hash_name": "Rune Axe (Arcana) A",
+      "name": "Rune Axe (Arcana) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItVQM8mSE08yU6-kLyVBkY_8Tc",
+      "type": "Axe - Lv. 40",
+      "sell_price": 198,
+      "sell_listings": 17,
+      "name_color": "FB86FF"
+    },
+    {
+      "hash_name": "War Hatchet (Immortal) A",
+      "name": "War Hatchet (Immortal) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJMUdNdOClTzUKg0OLHVuZePw3NqPxk",
+      "type": "Hatchet - Lv. 20",
+      "sell_price": 589,
+      "sell_listings": 4,
+      "name_color": "E8695A"
+    },
+    {
+      "hash_name": "Battle Hatchet (Legendary) A",
+      "name": "Battle Hatchet (Legendary) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJMUdNdOClTzUKg0OLFVuZeP30rP9t9",
+      "type": "Hatchet - Lv. 30",
+      "sell_price": 62,
+      "sell_listings": 9,
+      "name_color": "EBBB00"
+    },
+    {
+      "hash_name": "Complete Crossbow (Arcana) A",
+      "name": "Complete Crossbow (Arcana) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIlfSsNGPzJbpkSk0OLCTLhANiYHZSuChQ",
+      "type": "Crossbow - Lv. 15",
+      "sell_price": 834,
+      "sell_listings": 9,
+      "name_color": "FB86FF"
+    },
+    {
+      "hash_name": "Ruby Pendant (Immortal) A",
+      "name": "Ruby Pendant (Immortal) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItAUNxQKSI6yUeg0OvcCPhX0moUmfY",
+      "type": "Amulet - Lv. 40",
+      "sell_price": 21,
+      "sell_listings": 29,
+      "name_color": "E8695A"
+    },
+    {
+      "hash_name": "Amethyst Ring (Arcana) A",
+      "name": "Amethyst Ring (Arcana) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJhES9dKS088yUepzqKcH-aAVkoC",
+      "type": "Ring - Lv. 40",
+      "sell_price": 1244,
+      "sell_listings": 8,
+      "name_color": "FB86FF"
+    },
+    {
+      "hash_name": "Warrior's Tome (Beyond) A",
+      "name": "Warrior's Tome (Beyond) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJ5CSNVKSU48yUakzqKcHwEnwhoR",
+      "type": "Tome - Lv. 65",
+      "sell_price": 5033,
+      "sell_listings": 1,
+      "name_color": "FF0080"
+    },
+    {
+      "hash_name": "Eclipse Amulet (Arcana) A",
+      "name": "Eclipse Amulet (Arcana) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItAUNxQKSI6yUeg0ebcCPhXEU4z_xU",
+      "type": "Amulet - Lv. 65",
+      "sell_price": 476,
+      "sell_listings": 2,
+      "name_color": "FB86FF"
+    },
+    {
+      "hash_name": "Moonstone Pendant (Beyond) A",
+      "name": "Moonstone Pendant (Beyond) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItAUNxQKSI6yUeg0OXcCPhX8iMu0ic",
+      "type": "Amulet - Lv. 30",
+      "sell_price": 1748,
+      "sell_listings": 1,
+      "name_color": "FF0080"
+    },
+    {
+      "hash_name": "Elite Shield (Beyond) A",
+      "name": "Elite Shield (Beyond) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0OvcCPhXRRriSqY",
+      "type": "Shield - Lv. 40",
+      "sell_price": 863,
+      "sell_listings": 1,
+      "name_color": "FF0080"
+    },
+    {
+      "hash_name": "Bronze Amulet (Immortal) A",
+      "name": "Bronze Amulet (Immortal) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsItAUNxQKSI6yUeg0ODcCPhXltzM3Rc",
+      "type": "Amulet - Lv. 5",
+      "sell_price": 1465,
+      "sell_listings": 1,
+      "name_color": "E8695A"
+    },
+    {
+      "hash_name": "Dimensional Shield (Beyond) A",
+      "name": "Dimensional Shield (Beyond) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlFTNVZOSI4yUeg0eXcCPhXxWJg0KQ",
+      "type": "Shield - Lv. 80",
+      "sell_price": 3626,
+      "sell_listings": 2,
+      "name_color": "FF0080"
+    },
+    {
+      "hash_name": "Mystic Hatchet (Arcana) A",
+      "name": "Mystic Hatchet (Arcana) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsIJMUdNdOClTzUKg0OPDVuZePxlyrL23",
+      "type": "Hatchet - Lv. 50",
+      "sell_price": 1085,
+      "sell_listings": 2,
+      "name_color": "FB86FF"
+    },
+    {
+      "hash_name": "Comet Staff (Beyond) A",
+      "name": "Comet Staff (Beyond) A",
+      "icon_url": "eBLtYAl6ntbtQ8HLU9Nwq_spna9pYjVMElAg-FGKLvMFaUQ2uz-HsJlZRNZTIk4-yUeg2fyCFvEJFJCPlA",
+      "type": "Staff - Lv. 40",
+      "sell_price": 583,
+      "sell_listings": 9,
+      "name_color": "FF0080"
+    }
+  ],
+  "total": 70,
+  "updatedAt": "2026-06-03T07:49:15.623Z"
+}
