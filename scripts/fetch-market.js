@@ -30,7 +30,7 @@ async function fetchAllItems() {
   parseItems(firstRes.data?.results ?? [], allItems);
 
   for (let start = PAGE_SIZE; start < Math.min(totalCount, 2000); start += PAGE_SIZE) {
-    await sleep(800);
+    await sleep(2000);
     try {
       const res = await axios.get(`${STEAM_COMMUNITY}/market/search/render/`, {
         params: {
